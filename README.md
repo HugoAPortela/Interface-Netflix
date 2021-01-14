@@ -16,8 +16,8 @@
 </h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/">
-        <img alt="Made by Antonio Stanislaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23fc8406">
+    <a href="https://www.linkedin.com/in/hugo-portela">
+        <img alt="Made by Hugo Portela" src="https://img.shields.io/badge/made%20by-Hugo Portela-%23fc8406">
     </a>
     <a href="LICENSE">
         <img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-%23fc8406">
