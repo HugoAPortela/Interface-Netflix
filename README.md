@@ -27,7 +27,6 @@
 <h5 align="center">
 <p style="color:black">ÍNDICE</p>
 
-[Sobre o desafio](#-Sobre-o-desafio) | [Tecnologias utilizadas](#-Tecnologias-Utilizadas) | [Como baixar o projeto](#-Como-baixar-o-projeto) | [Licença](#-Licença) | [Autor](#-Autor)
 
 </h5>
 
@@ -43,24 +42,8 @@ Nesse projeto foi recriado a interface do principal site de streaming mundial ut
 - CSS3;
 - JavaScript
 
-## ⏬ Como baixar o projeto
-- <b style="color:red"> OBS: </b> É necessário ter o git instalado em sua máquina
-- Executar o Seguinte comando no seu **Terminal** ou no **CMD**:
-
-```bash
-        git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git
-
-
-```
-
----
-
-## ⌨️ Autor
 
 <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/54186220?s=460&u=6095908872ed5e96a473f85605949ad1b2efa98f&v=4" width="100px;" alt="Perfil-autor" ><br>
-<sub><b>Antonio Stanislaw</b></sub>
+<sub><b>Hugo Portela</b></sub>
 
-:rocket: Exercício resolvido com muita dedicação e esforço por [Antonio Stanislaw](https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/) :man_technologist:
 
-##### Contatos
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanislaw.iaw2018@gmail.com)](mailto:stanislaw.iaw2018@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/)](https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/)
