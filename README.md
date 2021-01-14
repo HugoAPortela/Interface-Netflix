@@ -16,7 +16,7 @@
 </h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/hugo-portela">
+    <a href="">
         <img alt="Made by Hugo Portela" src="https://img.shields.io/badge/made%20by-Hugo Portela-%23fc8406">
     </a>
     <a href="LICENSE">
@@ -43,7 +43,7 @@ Nesse projeto foi recriado a interface do principal site de streaming mundial ut
 - JavaScript
 
 
-<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/54186220?s=460&u=6095908872ed5e96a473f85605949ad1b2efa98f&v=4" width="100px;" alt="Perfil-autor" ><br>
+<img style="border-radius: 50%;" src="" width="100px;" alt="" ><br>
 <sub><b>Hugo Portela</b></sub>
 
 
